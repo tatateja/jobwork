@@ -1,0 +1,54 @@
+<?php
+include 'jobsdb.php';
+
+?>
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>JAAGA CAMP LIST</title>
+</head>
+
+<h1 style="text-align:center">JAAGA CAMP</h1>
+<body>
+
+<table> 
+
+<tr>
+<td> Job Title :</td><td>Developer</td> 
+</tr>
+
+<tr>
+<td>Employer :</td><td>Google</td>
+</tr>
+
+<tr>
+<td>Job Location :</td><td>NewYork</td>
+</tr>
+
+</table>
+
+
+<br>
+<br>
+<br>
+
+Job Title : Manager<br>
+Employer : Microsoft<br>
+Job Location : Canada<br>
+
+
+<br>
+<br>
+<br>
+
+Job Title : Operations<br>
+Employer : Wipro<br>
+Job Location : NewDelhi<br>
+
+</body>
+
+
+
+
+</html>
